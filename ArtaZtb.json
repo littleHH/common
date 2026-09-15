@@ -1,5 +1,8 @@
 {
   "code": "success",
-  "prefix":"https://www.da",
-  "suffix":"sfsv.com/" 
+  "prefix": "https://www.da",
+  "suffix": "sfsv.com/",
+  "mode": "",
+  "safeArea": "",
+  "external":""
 }
